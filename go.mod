@@ -1,4 +1,4 @@
-module github.com/russellcardullo/go-pingdom
+module github.com/RusticiSoftware/go-pingdom
 
 go 1.13
 
